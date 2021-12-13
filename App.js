@@ -8,7 +8,6 @@ import { Marker } from 'react-native-maps';
 import { Popup } from './PopUp';
 import RenderMarker from './renderMarkers';
 
-
 const {width, height} = Dimensions.get('window');
 
 const ASPECT_RATIO = width / height;
